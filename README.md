@@ -14,7 +14,7 @@ express, vue , cors via npm install. npm install "name".
 
 This is how it works:
 
-1. Run index.js file via node on the CLI and open index.html to use the service. 
+1. Run index.js file found on the gh- main page via node on the CLI, navigate to the right file via CLI and open index.html to use the service. 
 2. Fill out all the details about your desired artist: Style, budget, dates and location. 
 3. Click submit and the site will return registered artists within the target area that match your budget, music style and dates.
 4. Visit the artist profile and see the details about specific DJ or musician. 
