@@ -14,7 +14,7 @@ Whether its a private party or a public party, DJFinder makes it easier to find 
 
 This is how it works:
 
-1. Run index.js file found on the gh- main page via node on the CLI, navigate to the right file via CLI and open index.html to use the service. 
+1. Run index.js file found on the gh- main page via node on the CLI, navigate to the right file via CLI and open index.html on "public" folder to use the service. 
 2. Fill out all the details about your desired artist: Style, budget, dates and location. 
 3. Click submit and the site will return registered artists within the target area that match your budget, music style and dates.
 4. Visit the artist profile and see the details about specific DJ or musician. 
@@ -27,7 +27,7 @@ That will send the artist an email about received request.
 
 ## What we learned from this project
 
-Christian: I have learned about how to build a website with HTML CSS and JS. How to add API to talk with the backend. Calendar has been added via CSS. Google Maps is integrated via API. Soundcloud link is provided to directly access artist's soundcloud for music samples. 
+Christian: I have learned about how to build a website with HTML, CSS and JS. How to add API to make frontend talk with the backend. Calendar has been added via CSS altough I was going to use Google Calendar API. Google Maps is integrated via API. Soundcloud link is provided to directly access artist's soundcloud for music samples. 
 I have learned how to require different files in the index.js folder and interact with them to make it a fullstack application.
 Although its simple, it works. 
 
@@ -38,7 +38,7 @@ Jake:
 
 ### Build with:
 
-1. Bootstrap, HTML, JS, CSS. 
+1. Bootstrap, HTML, JS, CSS, APIs. 
 
 ### Authors:
 
