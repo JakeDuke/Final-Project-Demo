@@ -1,9 +1,16 @@
+# DJFinder Demo
 
 Welcome to DJFinder Demo!
 
 DJFinder is a website, a fullstack application to find your favourite artist (DJ, musician, etc) for your next event. 
 Artist details are stored in the backend, database by using IDs. 
 Whether its a private party or a public party, DJFinder makes it easier to find the right artist for you for the right party.
+
+### Prerequisites
+
+express, vue , cors via npm install. npm install "name". 
+
+### Getting started
 
 This is how it works:
 
@@ -18,7 +25,7 @@ That will send the artist an email about received request.
 8. The confirmation email reveals the artists contact info such as phone # for faster communication. 
 9. Get ready for the party, your artist is booked!
 
-Journal:
+## What we learned from this project
 
 Christian: I have learned about how to build a website with HTML CSS and JS. How to add API to talk with the backend. Calendar has been added via CSS. Google Maps is integrated via API. Soundcloud link is provided to directly access artist's soundcloud for music samples. 
 I have learned how to require different files in the index.js folder and interact with them to make it a fullstack application.
@@ -26,3 +33,23 @@ Although its simple, it works.
 
 
 Jake: 
+
+
+
+### Build with:
+
+1. Bootstrap, HTML, JS, CSS. 
+
+### Authors:
+
+1. Christian GH: christian1006
+2. Jake GH: JakeDuke
+
+
+### License:
+
+MIT License
+
+### ReadMe
+
+By PurpleBooth. 
