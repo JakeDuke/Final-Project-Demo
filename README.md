@@ -2,13 +2,13 @@
 
 Welcome to DJFinder Demo!
 
-DJFinder is a website, a fullstack application to find your favourite artist (DJ, musician, etc) for your next event. 
-Artist details are stored in the backend, database by using IDs. 
+DJFinder is a fullstack application to find your favourite artist (DJ, musician, etc) for your next event. 
+Artist details are stored in the backend, database by using IDs. Users can use the service via index.html on the front end. 
 Whether its a private party or a public party, DJFinder makes it easier to find the right artist for you for the right party.
 
 ### Prerequisites
 
-express, vue , cors via npm install. npm install "name". 
+ use express, vue , cors dependencies via npm install. npm install "name". 
 
 ### Getting started
 
